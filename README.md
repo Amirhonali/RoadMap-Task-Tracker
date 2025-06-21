@@ -1,4 +1,7 @@
-comaands list:
+## 📌 Task Tracker CLI — команды
+
+Ниже приведены команды для работы с трекером задач:
+commands list:
   dotnet run -- add "//Description" for task
   dotnet run -- update Id "Descritpion"
   dotnet run -- delete Id
