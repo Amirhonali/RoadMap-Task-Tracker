@@ -1,0 +1,14 @@
+/Users/amirhon/Projects_RoadMap/TaskTracker/bin/Debug/net9.0/TaskTracker
+/Users/amirhon/Projects_RoadMap/TaskTracker/bin/Debug/net9.0/TaskTracker.deps.json
+/Users/amirhon/Projects_RoadMap/TaskTracker/bin/Debug/net9.0/TaskTracker.runtimeconfig.json
+/Users/amirhon/Projects_RoadMap/TaskTracker/bin/Debug/net9.0/TaskTracker.dll
+/Users/amirhon/Projects_RoadMap/TaskTracker/bin/Debug/net9.0/TaskTracker.pdb
+/Users/amirhon/Projects_RoadMap/TaskTracker/obj/Debug/net9.0/TaskTracker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amirhon/Projects_RoadMap/TaskTracker/obj/Debug/net9.0/TaskTracker.AssemblyInfoInputs.cache
+/Users/amirhon/Projects_RoadMap/TaskTracker/obj/Debug/net9.0/TaskTracker.AssemblyInfo.cs
+/Users/amirhon/Projects_RoadMap/TaskTracker/obj/Debug/net9.0/TaskTracker.csproj.CoreCompileInputs.cache
+/Users/amirhon/Projects_RoadMap/TaskTracker/obj/Debug/net9.0/TaskTracker.dll
+/Users/amirhon/Projects_RoadMap/TaskTracker/obj/Debug/net9.0/refint/TaskTracker.dll
+/Users/amirhon/Projects_RoadMap/TaskTracker/obj/Debug/net9.0/TaskTracker.pdb
+/Users/amirhon/Projects_RoadMap/TaskTracker/obj/Debug/net9.0/TaskTracker.genruntimeconfig.cache
+/Users/amirhon/Projects_RoadMap/TaskTracker/obj/Debug/net9.0/ref/TaskTracker.dll
